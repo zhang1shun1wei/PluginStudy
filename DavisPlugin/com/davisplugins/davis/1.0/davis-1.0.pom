@@ -9,8 +9,8 @@
     <dependency>
       <groupId>com.android.tools.build</groupId>
       <artifactId>gradle</artifactId>
-      <version>1.5.0</version>
-      <scope>compile</scope>
+      <version>3.5.3</version>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
